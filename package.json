@@ -1,0 +1,21 @@
+{
+  "name": "tea-good-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikhail-bit219/tea-good-1.git"
+  },"dependencies": {
+    "tea-demonstration-6": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikhail-bit219/tea-good-1/issues"
+  },
+  "homepage": "https://github.com/Mikhail-bit219/tea-good-1#readme"
+}
